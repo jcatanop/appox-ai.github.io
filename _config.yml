@@ -7,13 +7,13 @@ baseurl:
 # (string) Description of your wiki
 description: "Este es un sitio Wiki"
 # (boolean) disable edit functionalities (edit/delete/add pages)
-disable_edit: true
+disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
 show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
 show_wiki_pages_limit: 10
 # (boolean) Enable/disable blog feature
-blog_feature: true
+blog_feature: false
 # (boolean) Enable/disable wiki posts list in sidebar (needs blog_feature enabled)
 show_wiki_posts: false
 # (integer) Maximum number of wiki posts to shown in sidebar
