@@ -27,7 +27,7 @@ show_downloads: false
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
-logo_url: "https://github.com/appox-ai/appox-ai.github.io/blob/master/assets/appox_identificador_03.svg"
+logo_url: "https://appox.ai/img/appox_identificador_03.svg"
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
 google_analytics: 
 # (string) folder where wiki pages are stored, it's needed for tool buttons
