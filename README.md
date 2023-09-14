@@ -23,24 +23,24 @@ A continuacion se describen los pasos para crear un articulo.
 2. Inicia sesión con tu usuario si es necesario.
 
 3. Si es la primera vez que vas a contribuir en la Wiki, Github te solicitará crear un nuevo fork del repositorio.
+
 ![Github fork requirement][imgFork]
 
 4. Luego de acceder a github (y crear el fork si fue necesario), estarás listo para inciar a crear tu articulo. 
 
 5. Asigna un nombre al nuevo archivo y este será el título del artículo. Ten presente que este seá explícito y resumido, siendo coherente con el tema central del artículo.
+
 ![Github file editing][edit]
 
 6. En el contenido del archivo escribe tu artículo usando la sintaxis [Markdown][markdown] o [HTML][htmlBasics].
 
   *Nota: Si te gusta ver como esta quedando tu texto Markdown antes de publicarlo, puedes usar [Dingus][dingus].*
 
-7. 
 
 
-
-[logo]: /img/appox_logo_05.png "AppOX"
-[imgFork]: /img/2023-09-14_10-38-21.png
-[edit]: /img/2023-09-14_10-41-19.png
+[logo]: https://github.com/appox-ai/appox-ai.github.io/blob/master/assets/img/appox_logo_05.png "AppOX"
+[imgFork]: https://github.com/appox-ai/appox-ai.github.io/blob/master/assets/img/2023-09-14_10-38-21.png
+[edit]: https://github.com/appox-ai/appox-ai.github.io/blob/master/assets/img/2023-09-14_10-41-19.png
 [markdown]: https://www.markdownguide.org/basic-syntax/
 [htmlBasics]: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
 [dingus]: https://daringfireball.net/projects/markdown/dingus
