@@ -40,9 +40,9 @@ Escribe tu artículo usando la sintaxis [Markdown][markdown] o [HTML][htmlBasics
 
 Si te gusta ver como esta quedando tu texto Markdown antes de publicarlo, puedes usar [Dingus][dingus].*
 
-Si necesitas incluir imagenes en tu articulo, sube la imagen a la carpeta ***assets/img/*** del repositorio y en tu documento indica que la imagen esta en la URL *** https://github.com/appox-ai/appox-ai.github.io/blob/master/assets/img/<nombre_archivo> ***. Reemplaza el texto <nombre archivo> por el nombre de la imagen.
+Si necesitas incluir imagenes en tu articulo, sube la imagen a la carpeta ***assets/img/*** del repositorio y en tu documento indica que la imagen esta en la URL https://raw.githubusercontent.com/appox-ai/appox-ai.github.io/master/assets/img/nombre_imagen.
 
-Si necesitas incluir un recurso diferente a una imagen, ejemplo un PDF, sube to archivo a la carpeta ***assets/files/*** del repositorio y en tu documento incluye un link que direccione a la URL *** https://github.com/appox-ai/appox-ai.github.io/blob/master/assets/files/<nombre_archivo> ***.
+Si necesitas incluir un recurso diferente a una imagen, ejemplo un PDF, sube to archivo a la carpeta ***assets/files/*** del repositorio y en tu documento incluye un link que direccione a la URL https://raw.githubusercontent.com/appox-ai/appox-ai.github.io/master/assets/files/nombre_archivo.
 
 
 ## Lecturas Sugeridas
@@ -53,9 +53,9 @@ Si necesitas incluir un recurso diferente a una imagen, ejemplo un PDF, sube to 
 - [Workarounds for things not officially supported by Markdown][hacksMarkdown]
 
 
-[logo]: https://github.com/appox-ai/appox-ai.github.io/blob/master/assets/img/appox_logo_05.png "AppOX"
-[imgFork]: https://github.com/appox-ai/appox-ai.github.io/blob/master/assets/img/2023-09-14_10-38-21.png
-[edit]: https://github.com/appox-ai/appox-ai.github.io/blob/master/assets/img/2023-09-14_10-41-19.png
+[logo]: https://raw.githubusercontent.com/appox-ai/appox-ai.github.io/master/assets/img/appox_logo_05.png "AppOX"
+[edit]: https://raw.githubusercontent.com/appox-ai/appox-ai.github.io/master/assets/img/2023-09-14_10-41-19.png
+
 [markdown]: https://www.markdownguide.org/basic-syntax/
 [htmlBasics]: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
 [dingus]: https://daringfireball.net/projects/markdown/dingus
