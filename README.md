@@ -1,12 +1,12 @@
 # AppOX Wiki
 
-![AppOX Logo][logo]
+<img src="https://raw.githubusercontent.com/appox-ai/appox-ai.github.io/master/assets/img/appox_logo_05.png" width="200">
 
 Este espacio está destinado a contener información útil para la comprensión y alineación de conceptos teóricos, gracias al intercambio de conocimientos por parte de los diferentes colaboradores de **[AppOX][appox]**.
 
 Si en algún momento identificas que hay una conversación con tu equipo de trabajo donde no es fácil llegar a una conclusión definitiva sobre un tema en particular, es posible que sea el momento de escribir aquí lo que conoces del tema e invitar a tu equipo de trabajo para que contribuyan con su conocimiento.
 
-## Reglas de la Wiki
+# Reglas de la Wiki
 
 - Usa este espacio para temas de carácter general.
 - Evita dejar aquí información específica de personas o proyectos.
@@ -14,13 +14,13 @@ Si en algún momento identificas que hay una conversación con tu equipo de trab
 - Usa referencias que sean confiables.
 - Evita publicar imagenes o textos que tengan restricciones de uso.
 
-## GitHub
+# GitHub
 
 Este sitio esta hospedado en [Github][github] por lo cual para contribuir a la Wiki de **[AppOX][appox]**, es necesario que sepas como usar Github. Usa la [Documentacion de Github][GithubDocs] para orientarte.
 
 Acorde a la [Documentacion de Github][GithubDocs] existen multiples formas para contribuir al repositorio de **[AppOX][appox]**, por lo cual tu eres libre de escojer la via que mas te sea comoda.
 
-## Como Crear o Editar un Artículo 
+# Como Crear o Editar un Artículo 
 
 Cuando busques un tema en la Wiki de **[AppOX][appox]** y no encuentres un artículo donde se haya sido discutido previamente lo que buscas, sientete en la libertad de crearlo desde cero. 
 
@@ -45,7 +45,7 @@ Si necesitas incluir imagenes en tu articulo, sube la imagen a la carpeta ***ass
 Si necesitas incluir un recurso diferente a una imagen, ejemplo un PDF, sube to archivo a la carpeta ***assets/files/*** del repositorio y en tu documento incluye un link que direccione a la URL https://raw.githubusercontent.com/appox-ai/appox-ai.github.io/master/assets/files/nombre_archivo.
 
 
-## Lecturas Sugeridas
+# Lecturas Sugeridas
 
 - [Wikipedia:List of guidelines][WikipediaGuidelines]
 - [Wiki Guidelines][WikiGuidelines]
