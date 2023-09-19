@@ -16,7 +16,7 @@ Algunos autores han debatido extensamente este tema y podríamos decir que si bi
 
 # Datos Históricos
 
-A mediados del siglo XXI el concepto de calidad tomó mucha importancia en el sector farmacéutico y de alimentos, a razón de su impacto directo en la salud de las personas. Todo esto hizo que surgieran entidades especializadas en debatir y establecer criterios para asegurar la calidad de esos productos. Por ejemplo la [Organización Mundial de la Salud](https://www.who.int/) o la [International Council for Harmonisation](https://www.ich.org/).
+A mediados del siglo XXI el concepto de calidad tomó mucha importancia en el sector farmacéutico y de alimentos, a razón de su impacto directo en la salud de las personas. Todo esto hizo que surgieran entidades especializadas en debatir y establecer criterios para asegurar la calidad de esos productos. Por ejemplo la [Organización Mundial de la Salud][https://www.who.int/] o la [International Council for Harmonisation](https://www.ich.org/).
 
 Para la década de 1990 el uso de sistemas computarizados en espacios de fabricación de alimentos y medicamentos fue alcanzando un protagonismo alto. A razón de esto, los sistemas computarizados empezaron a ser otro punto en la agenda para las discusiones sobre calidad, ya que los registros generados y almacenados en estos, eran usados para tomar decisiones de calidad de los productos a comercializar. 
 
