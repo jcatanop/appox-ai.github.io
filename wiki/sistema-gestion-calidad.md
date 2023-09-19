@@ -33,13 +33,13 @@ Estos dos documentos han sido un marco de referencia en la evaluación y validac
 
 La International Organization for Standardization [ISO][iso] es una entidad independiente no gubernamental, que inició operaciones a mediados de la década de 1940. Ellos han trabajo en definir estándares de calidad que puedan ser aplicados a todo tipo de organización. 
 
-En 2015 fue emitida la norma [ISO 9001 Quality management systems][https://www.iso.org/standard/62085.html] la cual declara los requerimientos mínimos a cumplir por una empresa con el fin de implementar y sostener un sistema de calidad auditable. Esta norma no esta limitada a un tipo o tamaño de empresa. 
+En 2015 fue emitida la norma [ISO 9001 Quality management systems](https://www.iso.org/standard/62085.html) la cual declara los requerimientos mínimos a cumplir por una empresa con el fin de implementar y sostener un sistema de calidad auditable. Esta norma no esta limitada a un tipo o tamaño de empresa. 
 
 Adwemas de la ISO-9001, han diso emitidas otras normas de interes para sistemas de calidad de empresas que generan software con aplicacion de AI:
 
-- [ISO/IEC 25059:2023 Software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Quality model for AI systems][https://www.iso.org/standard/80655.html]
-- [ISO/IEC 25051:2014 Software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Requirements for quality of Ready to Use Software Product (RUSP) and instructions for testing][https://www.iso.org/standard/61579.html]
-- [ISO/IEC TS 25011:2017 Information technology — Systems and software Quality Requirements and Evaluation (SQuaRE) — Service quality models][https://www.iso.org/standard/35735.html]
+- [ISO/IEC 25059:2023 Software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Quality model for AI systems](https://www.iso.org/standard/80655.html)
+- [ISO/IEC 25051:2014 Software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Requirements for quality of Ready to Use Software Product (RUSP) and instructions for testing](https://www.iso.org/standard/61579.html)
+- [ISO/IEC TS 25011:2017 Information technology — Systems and software Quality Requirements and Evaluation (SQuaRE) — Service quality models](https://www.iso.org/standard/35735.html)
 
 # Referencias
 
