@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/appox-ai/appox-ai.github.io/master/assets/img/wiki_logo.png" width="200">
 
-[Leer en Español](https://wiki.appox.ai/readme.es.md) 
+[Leer en Español](https://wiki.appox.ai/readme.es) 
 
 This space is intended to contain useful information for the understanding and alignment of theoretical concepts, thanks to the exchange of knowledge by the various contributors to **[AppOX][appox]**.
 
