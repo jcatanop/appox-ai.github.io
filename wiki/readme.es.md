@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/appox-ai/appox-ai.github.io/master/assets/img/wiki_logo.png" width="200">
+# Wiki de AppOX
 
 [Read in English](https://wiki.appox.ai) 
 
