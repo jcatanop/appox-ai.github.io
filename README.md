@@ -4,7 +4,8 @@ Este espacio está destinado a contener información útil para la comprensión 
 
 Si en algún momento identificas que hay una conversación con tu equipo de trabajo donde no es fácil llegar a una conclusión definitiva sobre un tema en particular, es posible que sea el momento de escribir aquí lo que conoces del tema e invitar a tu equipo de trabajo para que contribuyan con su conocimiento.
 
-# Reglas de la Wiki
+Reglas de la Wiki
+===
 
 - Usa este espacio para temas de carácter general.
 - Evita dejar aquí información específica de personas o proyectos.
