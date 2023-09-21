@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/appox-ai/appox-ai.github.io/master/assets/img/wiki_logo.png" width="200">
 
-(Read in English)[https://wiki.appox.ai] 
+[Read in English](https://wiki.appox.ai) 
 
 Este espacio está destinado a contener información útil para la comprensión y alineación de conceptos teóricos, gracias al intercambio de conocimientos por parte de los diferentes colaboradores de **[AppOX][appox]**.
 
