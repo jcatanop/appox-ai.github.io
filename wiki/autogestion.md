@@ -19,7 +19,7 @@ Es habitual encontrar que las empresas que tienen ambientes laborales no amigabl
 Otras empresas le apuestan a un "Modelo Autogestionado" el cual se caracteriza por descentralizar la gestión de los recursos, de manera que los responsables de departamento o área tienen la capacidad de evaluar riesgos, tomar decisiones, establecer actividades y comunicarlas a su equipo de trabajo sin contratiempos, y sin depender de la decisión de un alto directivo.
 
 <div style="width:100%; display:flex; justify-content:center;">
-<img src="https://raw.githubusercontent.com/appox-ai/appox-ai.github.io/master/assets/img/redd-f-5U_28ojjgms-unsplash.jpg" alt="Reunión equipo de trabajo - Foto de Redd F en Unsplash" style="width:100%; max-width:600px;" />
+<img src="https://raw.githubusercontent.com/appox-ai/appox-ai.github.io/master/assets/img/redd-f-5U_28ojjgms-unsplash.jpg" alt="Reunión equipo de trabajo - Foto de Redd F en Unsplash" style="width:100%; max-width:1024px;" />
 </div>
 
 # Que es la Autogestión laboral?
