@@ -1,5 +1,5 @@
 # Wiki de AppOX
-[Read in English](wikiappox)
+[Read in English](wikiappox) | [Lire en français](https://wiki.appox.ai/readme.fr)
 
 Este espacio está destinado a contener información útil para la comprensión y alineación de conceptos teóricos, gracias al intercambio de conocimientos por parte de los diferentes colaboradores de [App**OX**][appox].
 
