@@ -1,68 +1,59 @@
 # Wiki de AppOX
+[Read in English](wikiappox)
 
-[Read in English](https://wiki.appox.ai) 
+Este espacio está destinado a contener información útil para la comprensión y alineación de conceptos teóricos, gracias al intercambio de conocimientos por parte de los diferentes colaboradores de [App**OX**][appox].
 
-Este espacio está destinado a contener información útil para la comprensión y alineación de conceptos teóricos, gracias al intercambio de conocimientos por parte de los diferentes colaboradores de **[AppOX][appox]**.
+Si en algún momento identificas que una conversación con tu equipo de trabajo no llega fácilmente a una conclusión clara sobre un tema en particular, es posible que sea el momento adecuado para documentar aquí lo que conoces al respecto e invitar a tu equipo a contribuir con su experiencia.
 
-Si en algún momento identificas que hay una conversación con tu equipo de trabajo donde no es fácil llegar a una conclusión definitiva sobre un tema en particular, es posible que sea el momento de escribir aquí lo que conoces del tema e invitar a tu equipo de trabajo para que contribuyan con su conocimiento.
+Somos conscientes de que cada día se genera nuevo conocimiento, y mantenerse actualizado en temas profesionales y tecnológicos es una labor que solo se logra gracias al esfuerzo colectivo de un equipo de trabajo.
+
 
 # Reglas de la Wiki
-
----
-
 - Usa este espacio para temas de carácter general.
-- Evita dejar aquí información específica de personas o proyectos.
-- Se respetuoso con los futuros lectores de tu publicación.
-- Usa referencias que sean confiables.
-- Evita publicar imagenes o textos que tengan restricciones de uso.
+- Evita dejar información específica de personas o proyectos.
+- Sé respetuoso con los futuros lectores de tu publicación.
+- Utiliza referencias confiables.
+- Evita publicar imágenes o textos con restricciones de uso.
+- Si compartes conceptos o criterios personales, asegúrate de dejar constancia de tu autoría.
+
 
 # GitHub
+Este sitio está hospedado en <a href="github" target="_blank">GitHub</a>, por lo tanto, para contribuir a la Wiki de AppOX, es necesario que estés familiarizado con el uso de esta plataforma. Apóyate en la <a href="GithubDocs" target="_blank">documentación oficial de GitHub</a> para orientarte.
 
----
+Según la <a href="GithubDocs" target="_blank">documentación de GitHub</a>, existen múltiples formas de contribuir al repositorio de AppOX, por lo cual eres libre de escoger la vía que más te acomode.
 
-Este sitio esta hospedado en [Github][github] por lo cual para contribuir a la Wiki de **[AppOX][appox]**, es necesario que sepas como usar Github. Apoyate en la [Documentacion de Github][GithubDocs] para orientarte.
-
-Acorde a la [Documentacion de Github][GithubDocs] existen multiples formas para contribuir al repositorio de **[AppOX][appox]**, por lo cual tu eres libre de escojer la via que mas te sea comoda.
 
 # Como Crear o Editar un Artículo 
+Si al buscar un tema en la [Wiki de App**OX**][wikiappox] no encuentras un artículo que lo trate, siéntete con la libertad de crearlo desde cero.
 
----
+Si has leído un artículo en la [Wiki de App**OX**][wikiappox] y consideras que puede mejorar, no dudes en proponer un cambio.
 
-Cuando busques un tema en la Wiki de **[AppOX][appox]** y no encuentres un artículo donde haya sido discutido previamente lo que buscas, sientete en la libertad de crearlo desde cero. 
-
-Si has leido un artículo en la Wiki de **[AppOX][appox]** y consideras que el documento puede mejorar, no temas en hacer una propuesta de cambio. 
-
-En la parte superior derecha de la página, encuentras el link **Add new** para crear un nuevo artiduclo o el link **Edit** para sugerir cambios al articulo que estas leyendo. Estos links te dirigirán a [Github][github].
+En la parte superior derecha de la página encontrarás el enlace **Add new** para crear un nuevo artículo, o el enlace **Edit** para sugerir cambios al artículo que estás leyendo. Ambos enlaces te dirigirán a <a href="github" target="_blank">GitHub</a>.
 
 ![Github file editing][edit]
 
-Dependiendo de los privilegios de tu usuario, [Github][github] te ira guiando sobre como debes proceder. 
+Dependiendo de los privilegios de tu cuenta, <a href="github" target="_blank">GitHub</a> te guiará sobre cómo proceder.
 
-Si tu cuenta de usuario ya esta asociada al repositorio, será algo tan sensillo como que [Github][github] te mostrará directamente el archivo para que lo edites o lo crees desde cero, y posteriormente hagas un [pull request][pullRequest].
+Si tu cuenta ya está asociada al repositorio, será tan sencillo como que GitHub te mostrará directamente el archivo para editarlo o crearlo desde cero, y posteriormente podrás hacer un [pull request][pullRequest].
 
-Si tu cuenta no esta asociada al repositorio, [Github][github] pedira que hagas un [Fork][fork] del repositorio en tu cuenta y cuando hagas los cambios, podras realizar un [pull request][pullRequest] desde tu fork al repositorio de **[AppOX][appox]**.
+Si tu cuenta no está asociada al repositorio, GitHub te pedirá hacer un [Fork][fork] del repositorio en tu cuenta. Una vez realizados los cambios, podrás enviar un [pull request][pullRequest] desde tu fork hacia el repositorio oficial de la [Wiki de AppOX][wikiappox].
 
 Escribe tu artículo usando la sintaxis [Markdown][markdown] o [HTML][htmlBasics].
 
-Si te gusta ver como esta quedando tu texto Markdown antes de publicarlo, puedes usar [Dingus][dingus].*
 
-Si necesitas incluir imagenes en tu articulo, sube la imagen a la carpeta ***assets/img/*** del repositorio y en tu documento indica que la imagen esta en la URL https://raw.githubusercontent.com/appox-ai/appox-ai.github.io/master/assets/img/nombre_imagen.
 
-Si necesitas incluir un recurso diferente a una imagen, ejemplo un PDF, sube to archivo a la carpeta ***assets/files/*** del repositorio y en tu documento incluye un link que direccione a la URL https://raw.githubusercontent.com/appox-ai/appox-ai.github.io/master/assets/files/nombre_archivo.
+Si necesitas incluir imágenes en tu artículo, súbelas a la ***carpeta assets/img/*** del repositorio, e indica en tu documento que la imagen se encuentra en la URL:
+https://raw.githubusercontent.com/appox-ai/appox-ai.github.io/master/assets/img/<nombre_imagen>
+
+Si necesitas incluir un recurso diferente (por ejemplo, un PDF), súbelo a la carpeta ***assets/files/*** del repositorio y en tu documento enlázalo desde:
+https://raw.githubusercontent.com/appox-ai/appox-ai.github.io/master/assets/files/<nombre_archivo>
 
 
 # Lecturas Sugeridas
-
----
-
 - [Wikipedia:List of guidelines][WikipediaGuidelines]
-
 - [Wiki Guidelines][WikiGuidelines]
-
 - [Qué es Markdown][markdownES]
-
 - [Workarounds for things not officially supported by Markdown][hacksMarkdown]
-
 
 
 [logo]: https://raw.githubusercontent.com/appox-ai/appox-ai.github.io/master/assets/img/appox_logo_05.png "AppOX"
@@ -74,6 +65,7 @@ Si necesitas incluir un recurso diferente a una imagen, ejemplo un PDF, sube to 
 [github]: https://github.com/
 [GithubDocs]: https://docs.github.com/en
 [appox]: https://appox.ai
+[wikiappox]:https://wiki.appox.ai
 [hacksMarkdown]: https://www.markdownguide.org/hacks/#:~:text=Image%20Size&text=If%20you%20need%20to%20resize,of%20an%20image%20in%20pixels.&text=The%20rendered%20output%20will%20contain,to%20the%20dimensions%20you%20specified.
 [markdownES]: https://markdown.es/
 [WikiGuidelines]: https://wiki.openstreetmap.org/wiki/Wiki_guidelines
