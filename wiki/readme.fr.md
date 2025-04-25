@@ -1,6 +1,6 @@
 # Wiki de AppOX
 
-[Lire en anglais](wikiappox) | [Leer en Español](https://wiki.appox.ai/readme.es) 
+[Read in English](wikiappox) | [Leer en Español](https://wiki.appox.ai/readme.es) 
 
 Cet espace a pour but de rassembler de l'information utile pour mieux comprendre et harmoniser des concepts théoriques, grâce au partage de connaissances entre les différents collaborateurs et collaboratrices de [App**OX**][appox].
 
